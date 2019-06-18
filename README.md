@@ -1,10 +1,8 @@
 <img src="https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
-# SDG INDEX AND DASHBOARDS REPORT 2018  
-## Global Responsibilities: Implementing the Goals
-Country-level data from 2018 Index and Dashboards
-
-[Project image]
+# SDG INDEX AND DASHBOARDS REPORT 2017  
+## International Spillovers in Achieving the Goals
+Country-level data from 2017 Index and Dashboards
 
 ## Project History
 Agenda 2030 and the Sustainable Development Goals, adopted by all member states of the United-Nations in 2015, describe a universal agenda that applies to and must be implemented by all countries. Sound metrics and data are critical for turning the SDGs into practical tools for problem solving.
@@ -19,29 +17,29 @@ The SDG Index and Dashboards 2018 report presents a revised and updated assessme
 
 This year’s report includes several improvements and additions in comparison to previous versions. It incorporates trend data for the first time. New indicators have been added to cover more accurately the SDGs and associated targets with a special focus on “leave no one behind” for OECD member states. We present data for all 193 UN member states and estimate absolute SDG achievement gaps to complement per capita estimates. Building on the 2017 report, we expand the analysis of international SDG spillovers and present an overall SDG spillover index.
 
-For more information on this report, see https://www.sdgindex.org/reports/2018/.
+For more information on this report, see https://www.sdgindex.org/reports/2017/.
+
 For data from our other projects, see https://github.com/sdsna
 
 ## Data
 
-The data is distributed in 2 files, each available in CSV or Stata format.
+The data is available in CSV or Stata format.
 
-1. Data from most recent year, Global Index Results 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Results.dta) format.
-2. Trend data, Global Index Time Series 2018, available in [Excel](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.xlsx) or [Stata](https://github.com/sdsna2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Time%20Series.dta) format.
+1. Cross-sectional data from most recent year, Global Index Results 2017, available in [Excel](https://github.com/sdsna/2017GlobalIndex /blob/master/2017GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2017GlobalIndex/blob/master/2017GlobalIndex Results.dta) format.
 
 
 ## Methodology
 
-[SDG Index and Dashboards - Detailed Methodological paper 2018](https://github.com/sdsna/2019SustainableDevelopmentReport/blob/master/2018%20Global%20Index%20Methodology.pdf)
+[SDG Index and Dashboards - Detailed Metadata 2017](https://github.com/sdsna/2017GlobalIndex/blob/master/2017GlobalIndexMetadata.pdf)
 
 ## License
 
 By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
 
 ## Colophon
-Lead writers are Jeffrey Sachs, Guido Schmidt-Traub, Christian Kroll, Guillaume Lafortune and Grayson Fuller. The report should be cited as: Sachs, J., Schmidt-Traub, G., Kroll, C., Lafortune, G., Fuller, G. (2018): SDG Index and Dashboards Report 2018. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
+Lead writers are Jeffrey Sachs, Guido Schmidt-Traub, Christian Kroll, David Durand-Delacre, and Katerina Teksoz. The report should be cited as Sachs, J., Schmidt-Traub, G., Kroll, C., Durand-Delacre, D. and Teksoz, K. (2017): SDG Index and Dashboards Report 2017. New York: Bertelsmann Stiftung and Sustainable Development Solutions Network (SDSN).
 
-Guillaume Lafortune coordinated the production of the report under the direction of Guido Schmidt-Traub and Christian Kroll and under the overall supervision of Jeffrey Sachs. Grayson Fuller was responsible for the data collection and management.
+David Durand-Delacre was responsible for the data collection and management. Guido Schmidt-Traub led the technical analysis. He and Christian Kroll co-directed the project under overall supervision from Jeffrey Sachs.
 
 Publication design and layout by [Pica Publishing](http://www.pica-publishing.com/).
 
