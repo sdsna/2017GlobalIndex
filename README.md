@@ -23,7 +23,7 @@ For data from our other projects, see https://github.com/sdsna
 
 The data is available in CSV or Stata format.
 
-1. Cross-sectional data from most recent year, Global Index Results 2017, available in [Excel](https://github.com/sdsna/2017GlobalIndex /blob/master/2017GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2017GlobalIndex/blob/master/2017GlobalIndex Results.dta) format.
+1. Cross-sectional data from most recent year, Global Index Results 2017, available in [Excel](https://github.com/sdsna/2017GlobalIndex/blob/master/2017GlobalIndexResults.xlsx) or [Stata](https://github.com/sdsna/2017GlobalIndex/blob/master/2017GlobalIndexResults.dta) format.
 
 
 ## Methodology
