@@ -17,7 +17,7 @@ To help fill a major gap in last year’s report and in SDG discussions more gen
 
 For more information on this report, see https://www.sdgindex.org/reports/2017/.
 
-For data from our other projects, see https://github.com/sdsna
+For data from our other projects, see https://github.com/sdsna.
 
 ## Data
 
@@ -47,9 +47,9 @@ Please notify us about any publications that result from the use of the SDG Inde
 
 If you have questions, please contact SDSN at <info@sdgindex.org>.
 
-For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de
+For media enquiries write to info@sdgindex.org and benjamin.stappenbeck@bertelsmann-stiftung.de.
 
-In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn.org and christian.kroll@bertelsmann-stiftung.de
+In order to contact the Scientific Directors write to guido.schmidt-traub@unsdsn.org and christian.kroll@bertelsmann-stiftung.de.
 
 The views expressed in this report do not reflect the views of any organization, agency or programme of the United Nations. It has been prepared by a team of independent experts of the SDSN Secretariat and the Bertelsmann Stiftung.
 
